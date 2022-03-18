@@ -1,0 +1,1 @@
+import{j as e,M as r,C as s}from"./chunks/vendor.8b42469c.js";function o(){return e(r,{appId:"UI4dBgY0NeEdyLXlaN2Qd0yqwBxezYbw9htD8GJA",serverUrl:"https://0hylhiknmwf0.usemoralis.com:2053/server",children:e(s,{})})}export{o as default};
